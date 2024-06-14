@@ -2,13 +2,7 @@
 # MeanStdDevCalculator
 
 This Java application calculates the mean and standard deviation of columns from numerical data stored in a text file. It utilizes a custom LinkedList implementation to organize and process the data, demonstrating fundamental data structure operations and statistical calculations.
-### Usage
 
-1. **Run the Program**:
-    ```sh
-    java -cp bin edu.escuelaing.arsw.ASE.app.App <input-file>
-    ```
-   Replace `<input-file>` with the path to your input text file.
 
 ### Input File Format
 
